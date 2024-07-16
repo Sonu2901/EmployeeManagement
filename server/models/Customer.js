@@ -33,8 +33,3 @@ const CustomerSchema = new Schema({
 });
 
 module.exports = mongoose.model('Customer', CustomerSchema);
-/*
-subhrajyotinayakmec20
-k1Pn0pWhzjMuk6LK
-mongodb+srv://subhrajyotinayakmec20:<password>@cluster0.qezi2xo.mongodb.net/
-*/
